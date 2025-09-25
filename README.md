@@ -48,7 +48,7 @@ A secure, scalable **AI-assisted document automation platform** that automatical
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RahulSoniBayer/BayerComplianceAgentX
    cd BayerComplainceAgentXC
    ```
 
